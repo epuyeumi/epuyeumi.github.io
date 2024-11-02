@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epuyeumi.github.io/Hju/sitemap_index.txt
+Sitemap: https://epuyeumi.github.io/JQB/sitemap_index.txt
+Sitemap: https://epuyeumi.github.io/Ujd/sitemap_index.txt
+Sitemap: https://epuyeumi.github.io/axC/sitemap_index.txt
